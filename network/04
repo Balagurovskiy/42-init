@@ -1,0 +1,5 @@
+# Identify the default gateway in the routing table
+
+# second param in frist line of default dest
+
+netstat -rn | grep "default" | awk 'NR == 1' | awk '{print $2}'

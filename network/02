@@ -1,0 +1,5 @@
+# Identify the IP address of the Ethernet interface
+
+# display the ethernet interface, located at label 'en0'
+
+ipconfig getifaddr en0

@@ -1,0 +1,3 @@
+# Deduction: Figure out the server type
+
+curl -s -I 42.fr | grep Server
