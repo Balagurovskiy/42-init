@@ -1,2 +1,2 @@
-# 42-init
+# basic commands and scripts
 ****
